@@ -12,4 +12,5 @@ Basic Bank-ATM Application With C Language
 
 <p>This application has three process for you. You can control your bank account with this app. You can check your wallet, withdraw money from your wallet, deposit money to your account. I created basic ATM application by using c programming language.</p>
 
-<b>@ragaslan/Istanbul</b>
+<b>@ragaslan</b><br>
+<i>Istanbul/Turkey</i>
